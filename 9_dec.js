@@ -104,4 +104,29 @@ const myArray = [1,4,2,5,1,4,6,8];
 // console.log(myArray.splice(1,3));
 
 
+// const arr = [1,2,3];
+// const arr2 = [4,5,6];
 
+// const newArr = arr.concat(arr2);
+
+//spread operator (...)
+
+// const newArr = [...arr, ...arr2];
+
+// console.log(newArr);
+
+// const ar = [1,2,3,[4,5],[6,7,8,[2,3]]];
+
+// const final_array = ar.flat(Infinity);
+
+// console.log(final_array);
+
+// console.log(Array.isArray("Hitesh"));  //false
+// console.log(Array.from("Hitesh"));  // [ 'H', 'i', 't', 'e', 's', 'h' ]
+// console.log(Array.from({name:"Hitesh"})); // []  //interesting interview question when object is passed.
+
+// const s1 = 100;
+// const s2 = 200;
+// const s3 = 300;
+
+// console.log(Array.of(s1,s2,s3));
