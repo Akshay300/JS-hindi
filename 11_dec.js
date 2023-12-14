@@ -165,9 +165,10 @@ const books = [
 
 // console.log(total);
 
-const arr1 = [2,3,4,5,6,7];
+// const arr1 = [2,3,4,5,6,7];
 
 
-const ans = arr1.reduce( (acc, item) => acc+item,0);
+// const ans = arr1.reduce( (acc, item) => acc+item,0);
 
-console.log(ans);
+// console.log(ans);
+
